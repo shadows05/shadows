@@ -2,3 +2,8 @@
     1）简单工厂simple_factory
     2）工厂方法method_factory
     3）抽象工厂ab_factory
+
+2 单例模式
+    singleton
+        单例模式一个实例 Singleton
+        单例模式多个实例 MultiSingleton
