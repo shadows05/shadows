@@ -1,0 +1,4 @@
+1 工厂模式
+    1）简单工厂simple_factory
+    2）工厂方法method_factory
+    3）抽象工厂ab_factory
